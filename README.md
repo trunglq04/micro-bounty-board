@@ -143,6 +143,12 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/{your-amazing-feature}`).
 5. Open a Pull Request.
 
+## Contract address
+https://explorer.iota.org/object/0xfa567025a8575ce22ee6481b36201c768735c9f0cad32d81ae6474a08da0879c?network=testnet
+
+<img width="2054" height="1244" alt="image" src="https://github.com/user-attachments/assets/1f07efc4-1358-44f0-8a65-52b23a0ed19d" />
+
+
 ## License
 
 Distributed under the MIT License.
